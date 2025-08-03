@@ -28,7 +28,7 @@ Committed to writing clean, maintainable code and following best development pra
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-  
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
 </p>
 
 ---
@@ -36,5 +36,5 @@ Committed to writing clean, maintainable code and following best development pra
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&locale=es" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=IngridXIks&show_icons=true&locale=es" alt="GitHub Stats" />
 </p>
