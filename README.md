@@ -36,5 +36,5 @@ Committed to writing clean, maintainable code and following best development pra
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=IngridXIks&show_icons=true&locale=es" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ingrid-X&show_icons=true&locale=es&theme=radical"  alt="GitHub Stats" />
 </p>
