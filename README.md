@@ -33,7 +33,25 @@ Committed to writing clean, maintainable code and following best development pra
 </p>
 
 ---
+### 📂 Mis Proyectos
 
+<p align="center">
+  <img src="./Home screenshot.png" alt="Web E-commerce Deliburger" width="300" />
+</p>
+    <img src="./proyecto2.png" alt="Proyecto 2" width="200" />
+  </a>
+  <a href="https://link-a-tu-proyecto3.com">
+    <img src="./proyecto3.png" alt="Proyecto 3" width="200" />
+  </a>
+</p>
+
+<p align="center">
+  <b>Proyecto 1:</b> Descripción breve de tu proyecto 1.<br>
+  <b>Proyecto 2:</b> Descripción breve de tu proyecto 2.<br>
+  <b>Proyecto 3:</b> Descripción breve de tu proyecto 3.
+</p>
+
+---
 ### 📊 GitHub Stats
 
 <p align="left">
