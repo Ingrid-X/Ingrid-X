@@ -36,18 +36,18 @@ Committed to writing clean, maintainable code and following best development pra
 ### 📂 My Projects
 
 <p align="center">
-  <img src="./Home_screenshot.png" alt="Web E-commerce Deliburger" width="400" />
+  <img src="./Home_screenshot.png" alt="Web E-commerce Deliburger" width="600" />
 </p>
 
 **Web E-commerce Deliburger**  
 E-commerce web application featuring a login system, product and sales management, database integration, and sales report generation for business control and analysis. Technologies used: HTML, CSS, CodeIgniter, PHP, and Bootstrap.
 
 <p align="center">
-  <img src="./Shop_screenshot.png" alt="Tienda Deliburger" width="400" />
+  <img src="./Shop_screenshot.png" alt="Tienda Deliburger" width="600" />
 </p>
 
 <p align="center">
-  <img src="./Adminpanel_screenshot.png" alt="Admin Panel" width="400" />
+  <img src="./Adminpanel_screenshot.png" alt="Admin Panel" width="600" />
 </p>
 
 **Source Code:**  
