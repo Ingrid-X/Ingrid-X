@@ -53,6 +53,25 @@ E-commerce web application featuring a login system, product and sales managemen
 **Source Code:**  
 [View on GitHub](https://github.com/Ingrid-X/proyecto_x_ingrid)
 
+---
+
+### 🏠 Home Decor E-Commerce (WordPress + WooCommerce)
+
+<p align="center">
+  <img src="./Shop_WordPress.png" alt="Home Decor Shop - WordPress" width="800" />
+</p>
+
+**Home Decor Online Store**  
+E-commerce website built with **WordPress, WooCommerce, Kadence Theme, and Elementor**, focused on a clean editorial layout and a curated shopping experience.
+
+The project includes custom Shop page styling, layout customization, responsive design, product categorization, and UI adjustments using **JavaScript and CSS**, combining both **theme customization and page builder workflows**.
+
+**Technologies used:**  
+WordPress · WooCommerce · Elementor · Kadence Theme · PHP · JavaScript · CSS
+
+🔗 **Live Website:**  
+[Visit the website]()
+
 
 ---
 ### 📊 GitHub Stats
