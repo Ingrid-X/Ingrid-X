@@ -58,7 +58,11 @@ E-commerce web application featuring a login system, product and sales managemen
 ### 🏠 Home Decor E-Commerce (WordPress + WooCommerce)
 
 <p align="center">
-  <img src="" width="800" />
+  <img src="./Home WP screenshot.png" width="800" />
+</p>
+
+<p align="center">
+  <img src="./Shop WP Screenshot.png" width="800" />
 </p>
 
 **Home Decor Online Store**  
