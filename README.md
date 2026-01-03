@@ -55,20 +55,24 @@ E-commerce web application featuring a login system, product and sales managemen
 
 ---
 
-### 🏠 Home Decor E-Commerce (WordPress + WooCommerce)
+### 🏠 Home Decor E-Commerce "Decora" (WordPress + WooCommerce)
 
 <p align="center">
-  <img src="./Home WP screenshot.png" width="800" />
-</p>
-
-<p align="center">
-  <img src="./Shop WP Screenshot.png" width="800" />
+  <img src="./Home_wp.png" width="800" />
 </p>
 
 **Home Decor Online Store**  
 E-commerce website built with **WordPress, WooCommerce, Kadence Theme, and Elementor**, focused on a clean editorial layout and a curated shopping experience.
 
 The project includes custom Shop page styling, layout customization, responsive design, product categorization, and UI adjustments using **JavaScript and CSS**, combining both **theme customization and page builder workflows**.
+
+<p align="center">
+  <img src="./Shop_wp.png" width="800" />
+</p>
+
+<p align="center">
+  <img src="./AboutUs_wp.png" width="800" />
+</p>
 
 **Technologies used:**  
 WordPress · WooCommerce · Elementor · Kadence Theme · PHP · JavaScript · CSS
