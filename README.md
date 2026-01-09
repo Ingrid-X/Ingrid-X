@@ -77,8 +77,8 @@ The project includes custom Shop page styling, layout customization, responsive 
 **Technologies used:**  
 WordPress · WooCommerce · Elementor · Kadence Theme · PHP · JavaScript · CSS
 
-🔗 **Live Website:**  
-[Visit the website]()
+🔗 **Source Code:**  
+[View on GitHub](https://github.com/Ingrid-X/Decora)
 
 
 ---
