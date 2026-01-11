@@ -21,14 +21,14 @@ Committed to writing clean, maintainable code and following best development pra
 
 <p align="left"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="WordPress" width="40" height="40"/>
 </p>
 
@@ -79,6 +79,26 @@ WordPress · WooCommerce · Elementor · Kadence Theme · PHP · JavaScript · C
 
 🔗 **Source Code:**  
 [View on GitHub](https://github.com/Ingrid-X/Decora)
+
+---
+### 📦 StockWise Pro (MERN + Docker)
+
+<p align="center">
+  <img src="./Stockwise_screenshot.png" alt="StockWise Pro Dashboard" width="800" />
+</p>
+
+**Full-Stack Inventory Management System** Sistema profesional de gestión de inventario con análisis de datos en tiempo real. Este proyecto destaca por su arquitectura robusta y su despliegue simplificado.
+
+**Key Features:**
+- **Dashboard Interactivo:** Visualización de stock mediante gráficos dinámicos (Recharts) y métricas clave.
+- **Smart Search:** Buscador avanzado con normalización de caracteres (ignora acentos y mayúsculas).
+- **Dockerized Architecture:** Despliegue completo (Frontend, Backend, MongoDB) mediante contenedores.
+- **Data Export:** Funcionalidad para exportar el inventario completo a formato CSV (Excel compatible).
+- **Responsive UI:** Interfaz moderna y limpia construida íntegramente con **Tailwind CSS**.
+
+**Technologies used:** MongoDB · Express.js · React · Node.js · TypeScript · Tailwind CSS · Docker · Recharts
+
+🔗 **Source Code:** [View on GitHub](https://github.com/Ingrid-X/StockWise-Pro)
 
 
 ---
