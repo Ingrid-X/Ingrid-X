@@ -84,7 +84,11 @@ WordPress · WooCommerce · Elementor · Kadence Theme · PHP · JavaScript · C
 ### 📦 StockWise Pro (MERN + Docker)
 
 <p align="center">
-  <img src="./Stockwise_screenshot.png" alt="StockWise Pro Dashboard" width="800" />
+  <img src="./Dashboard_stockwise.png" alt="StockWise Pro Dashboard" width="800" />
+</p>
+
+<p align="center">
+  <img src="./Products_stockwise.png" alt="StockWise Pro Products" width="800" />
 </p>
 
 **Full-Stack Inventory Management System** A professional inventory solution featuring real-time data analytics and a robust containerized architecture.
