@@ -71,7 +71,7 @@ The project includes custom Shop page styling, layout customization, responsive 
 </p>
 
 <p align="center">
-  <img src="./Myaccount_wp.png" width="800" />
+  <img src="./Promotions_wp.png" width="800" />
 </p>
 
 **Technologies used:**  
