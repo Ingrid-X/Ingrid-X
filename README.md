@@ -2,7 +2,7 @@
 
 <h1 align="center">Hello, I´m X Ingrid.</h1>
 
-<p> Full Stack Developer with a strong focus on backend development. Skilled in JavaScript, PHP, and CSS, with experience in the MERN Stack. 👩‍💻
+<p> Full Stack Developer with a strong focus on backend development. Skilled in JavaScript, TypeScript, PHP, and CSS, with experience in the MERN Stack. 👩‍💻
 Passionate about building scalable and efficient web applications. 🛠️ 
 Committed to writing clean, maintainable code and following best development practices. Always learning and exploring new technologies to improve and grow as a developer. 📚
 </p>
