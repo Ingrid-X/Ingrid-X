@@ -99,11 +99,11 @@ WordPress · WooCommerce · Elementor · Kadence Theme · PHP · JavaScript · C
 
 **Key Features:**
 
--Integrated Point of Sale (POS): Seamless checkout flow with dynamic cart management, automatic stock updates, and a comprehensive sales history log.
--Smart Search: Advanced filtering with character normalization (handles accents and case sensitivity).
--Dockerized Workflow: Full environment orchestration (Frontend, Backend, Database) using Docker Compose.
--Data Export: Built-in functionality to export inventory reports to Excel-compatible CSV files.
--Modern UI: Clean, responsive, and vibrant interface built with Tailwind CSS.
+**-Integrated Point of Sale (POS):** Seamless checkout flow with dynamic cart management, automatic stock updates, and a comprehensive sales history log.
+**-Smart Search:** Advanced filtering with character normalization (handles accents and case sensitivity).
+**-Dockerized Workflow:** Full environment orchestration (Frontend, Backend, Database) using Docker Compose.
+**-Data Export:** Built-in functionality to export inventory reports to Excel-compatible CSV files.
+**-Modern UI:** Clean, responsive, and vibrant interface built with Tailwind CSS.
 **Tech Stack:** MongoDB · Express.js · React · Node.js · TypeScript · Tailwind CSS · Docker
 
 🔗 **Source Code:** [View on GitHub](https://github.com/Ingrid-X/StockWise)
