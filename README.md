@@ -95,16 +95,16 @@ WordPress · WooCommerce · Elementor · Kadence Theme · PHP · JavaScript · C
   <img src="./Stockwise_historial.png" alt="StockWise Pro Historial" width="800" />
 </p>
 
-**Full-Stack Inventory Management System** A professional inventory solution featuring real-time data analytics and a robust containerized architecture.
+**Full-Stack Inventory Management System** A professional inventory solution featuring optimized operations and a robust containerized architecture.
 
 **Key Features:**
-- **Interactive Dashboard:** Data visualization using dynamic charts (Recharts) for stock distribution.
-- **Smart Search:** Advanced filtering with character normalization (handles accents and case sensitivity).
-- **Dockerized Workflow:** Full environment orchestration (Frontend, Backend, Database) using Docker Compose.
-- **Data Export:** Built-in functionality to export inventory reports to Excel-compatible CSV files.
-- **Modern UI:** Clean, responsive interface built with **Tailwind CSS**.
 
-**Tech Stack:** MongoDB · Express.js · React · Node.js · TypeScript · Tailwind CSS · Docker · Recharts
+-Integrated Point of Sale (POS): Seamless checkout flow with dynamic cart management, automatic stock updates, and a comprehensive sales history log.
+-Smart Search: Advanced filtering with character normalization (handles accents and case sensitivity).
+-Dockerized Workflow: Full environment orchestration (Frontend, Backend, Database) using Docker Compose.
+-Data Export: Built-in functionality to export inventory reports to Excel-compatible CSV files.
+-Modern UI: Clean, responsive, and vibrant interface built with Tailwind CSS.
+**Tech Stack:** MongoDB · Express.js · React · Node.js · TypeScript · Tailwind CSS · Docker
 
 🔗 **Source Code:** [View on GitHub](https://github.com/Ingrid-X/StockWise)
 
