@@ -81,30 +81,36 @@ WordPress · WooCommerce · Elementor · Kadence Theme · PHP · JavaScript · C
 [View on GitHub](https://github.com/Ingrid-X/Decora)
 
 ---
-### 📦 StockWise Pro (MERN + Docker)
+### 📦 StockWise Pro 
 
 <p align="center">
-  <img src="./Stockwise_puntoventa.png" alt="StockWise Pro Punto Venta" width="800" />
+  <img src="./Registrar_sw.png" alt="StockWise Pro Registrar Ventas" width="800" />
 </p>
 
 <p align="center">
-  <img src="./Stockwise_inventario.png" alt="StockWise Pro Inventario" width="800" />
+  <img src="./Proveedores_sw.png" alt="StockWise Pro Proveedores" width="800" />
 </p>
 
 <p align="center">
-  <img src="./Stockwise_historial.png" alt="StockWise Pro Historial" width="800" />
+  <img src="./Contabilidad_sw.png" alt="StockWise Pro Contabilidad" width="800" />
 </p>
 
-**Full-Stack Inventory Management System** A professional inventory solution featuring optimized operations and a robust containerized architecture.
+StockWise is a professional, full-stack inventory management system engineered to deliver real-time data analytics and streamline complex supply chains. StockWise empowers businesses by reducing operational friction, optimizing stock control, and turning raw inventory data into actionable business intelligence.
 
-**Key Features:**
+### 🚀 Key Features
 
-**-Integrated Point of Sale (POS):** Seamless checkout flow with dynamic cart management, automatic stock updates, and a comprehensive sales history log.
-**-Smart Search:** Advanced filtering with character normalization (handles accents and case sensitivity).
-**-Dockerized Workflow:** Full environment orchestration (Frontend, Backend, Database) using Docker Compose.
-**-Data Export:** Built-in functionality to export inventory reports to Excel-compatible CSV files.
-**-Modern UI:** Clean, responsive, and vibrant interface built with Tailwind CSS.
-**Tech Stack:** MongoDB · Express.js · React · Node.js · TypeScript · Tailwind CSS · Docker
+* **Real-Time Analytics Dashboard:** Monitor critical stock metrics, tracking sales velocity, product performance, and turnover rates through dynamic visual data.
+* **Advanced Inventory Control:** Complete lifecycle tracking for products, automated low-stock alerts, category management, and optimized audit trails.
+* **Cloud Authentication & Storage:** Integrated with Supabase to provide secure user authentication, robust session management, and reliable remote cloud storage for system assets and logs.
+* **Robust REST API:** Built with a strict TypeScript architecture on the backend, ensuring secure data handling, robust request validation, and high performance under load.
+* **Modern ORM Integration:** Seamless and type-safe database interactions providing reliable data management, migrations, and querying.
+
+### 🛠️ Tech Stack
+
+* **Frontend:** React, TypeScript
+* **Backend:** Node.js, Express, TypeScript, REST APIs
+* **Database & ORM:** MongoDB, Prisma ORM
+* **Cloud Services & BaaS:** Supabase (Authentication & Remote Storage)
 
 🔗 **Source Code:** [View on GitHub](https://github.com/Ingrid-X/StockWise)
 
