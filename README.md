@@ -97,7 +97,7 @@ WordPress · WooCommerce · Elementor · Kadence Theme · PHP · JavaScript · C
 
 StockWise is a professional, full-stack inventory management system engineered to deliver real-time data analytics and streamline complex supply chains. StockWise empowers businesses by reducing operational friction, optimizing stock control, and turning raw inventory data into actionable business intelligence.
 
-### 🚀 Key Features
+### Key Features
 
 * **Real-Time Analytics Dashboard:** Monitor critical stock metrics, tracking sales velocity, product performance, and turnover rates through dynamic visual data.
 * **Advanced Inventory Control:** Complete lifecycle tracking for products, automated low-stock alerts, category management, and optimized audit trails.
@@ -105,7 +105,7 @@ StockWise is a professional, full-stack inventory management system engineered t
 * **Robust REST API:** Built with a strict TypeScript architecture on the backend, ensuring secure data handling, robust request validation, and high performance under load.
 * **Modern ORM Integration:** Seamless and type-safe database interactions providing reliable data management, migrations, and querying.
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 * **Frontend:** React, TypeScript
 * **Backend:** Node.js, Express, TypeScript, REST APIs
